@@ -1,2 +1,0 @@
-# Digu
-My personal website 
